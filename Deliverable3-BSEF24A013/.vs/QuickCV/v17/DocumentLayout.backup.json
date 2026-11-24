@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester5\\WebDev\\QuickCV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\views\\shared\\_resumecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\views\\shared\\_resumecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\interface\\iexperiencebulletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\interface\\iexperiencebulletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\data\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\data\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\repositories\\templaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\repositories\\templaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\interface\\iskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\interface\\iskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\experiencebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\experiencebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\interface\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\interface\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\interface\\iresumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\interface\\iresumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\interface\\ieducationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\interface\\ieducationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\repositories\\resumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\repositories\\resumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|d:\\semester5\\webdev\\quickcv\\quickcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591D9416-79F5-48E7-A9EF-3E3AFE40D5DA}|QuickCV\\QuickCV.csproj|solutionrelative:quickcv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 598,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "QuickCV\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\wwwroot\\js\\site.js*",
+              "RelativeToolTip": "QuickCV\\wwwroot\\js\\site.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-24T15:07:53.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuickCV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "QuickCV\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T14:57:43.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ResumeCard.cshtml",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Views\\Shared\\_ResumeCard.cshtml",
+              "RelativeDocumentMoniker": "QuickCV\\Views\\Shared\\_ResumeCard.cshtml",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Views\\Shared\\_ResumeCard.cshtml*",
+              "RelativeToolTip": "QuickCV\\Views\\Shared\\_ResumeCard.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T14:57:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Data\\ApplicationUser.cs*",
+              "RelativeToolTip": "QuickCV\\Data\\ApplicationUser.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:53:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TemplateRepository.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Repositories\\TemplateRepository.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Repositories\\TemplateRepository.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Repositories\\TemplateRepository.cs",
+              "RelativeToolTip": "QuickCV\\Models\\Repositories\\TemplateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:17:38.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IExperienceBulletRepository.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\IExperienceBulletRepository.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Interface\\IExperienceBulletRepository.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\IExperienceBulletRepository.cs*",
+              "RelativeToolTip": "QuickCV\\Models\\Interface\\IExperienceBulletRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:46:23.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Controllers\\ResumeController.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Controllers\\ResumeController.cs*",
+              "RelativeToolTip": "QuickCV\\Controllers\\ResumeController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T07:53:05.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISkillRepository.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\ISkillRepository.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Interface\\ISkillRepository.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\ISkillRepository.cs*",
+              "RelativeToolTip": "QuickCV\\Models\\Interface\\ISkillRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:47:40.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Skill.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Skill.cs*",
+              "RelativeToolTip": "QuickCV\\Models\\Skill.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:35:59.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Data\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Data\\IDbConnectionFactory.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Data\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "QuickCV\\Data\\IDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:59:08.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IExperienceRepository.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\IExperienceRepository.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Interface\\IExperienceRepository.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\IExperienceRepository.cs*",
+              "RelativeToolTip": "QuickCV\\Models\\Interface\\IExperienceRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:43:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IResumeRepository.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\IResumeRepository.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Interface\\IResumeRepository.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\IResumeRepository.cs",
+              "RelativeToolTip": "QuickCV\\Models\\Interface\\IResumeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:15:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEducationRepository.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\IEducationRepository.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Interface\\IEducationRepository.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Interface\\IEducationRepository.cs*",
+              "RelativeToolTip": "QuickCV\\Models\\Interface\\IEducationRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:38:23.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResumeRepository.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Repositories\\ResumeRepository.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Repositories\\ResumeRepository.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Repositories\\ResumeRepository.cs",
+              "RelativeToolTip": "QuickCV\\Models\\Repositories\\ResumeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:17:20.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExperienceBullet.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\ExperienceBullet.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\ExperienceBullet.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\ExperienceBullet.cs*",
+              "RelativeToolTip": "QuickCV\\Models\\ExperienceBullet.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:30:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Experience.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Experience.cs*",
+              "RelativeToolTip": "QuickCV\\Models\\Experience.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:19:23.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Education.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Education.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Education.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Education.cs*",
+              "RelativeToolTip": "QuickCV\\Models\\Education.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:01:52.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Resume.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Models\\Resume.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Models\\Resume.cs",
+              "RelativeToolTip": "QuickCV\\Models\\Resume.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:28:04.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Data\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Data\\SqlConnectionFactory.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Data\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "QuickCV\\Data\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:59:27.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Program.cs",
+              "RelativeDocumentMoniker": "QuickCV\\Program.cs",
+              "ToolTip": "D:\\Semester5\\WebDev\\QuickCV\\QuickCV\\Program.cs",
+              "RelativeToolTip": "QuickCV\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T07:01:27.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

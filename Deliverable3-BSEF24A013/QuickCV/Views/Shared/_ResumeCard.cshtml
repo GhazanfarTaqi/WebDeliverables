@@ -1,0 +1,21 @@
+﻿@model IEnumerable<QuickCV.Models.Resume>
+
+@foreach (var res in Model)
+{
+    <div class="col-md-4">
+        <article class="card border-0 shadow-sm rounded-3 overflow-hidden h-100">
+            <div class="bg-secondary-subtle p-4 pb-0">
+                <img src="https://placehold.co/600x400/EEE/31343C" class="card-img-top" alt="...">
+            </div>
+            <div class="p-3">
+                <div class="d-flex justify-content-between gap-2">
+                    <span class="fw-bold small">@res.FullName</span>
+                </div>
+                <div class="text-secondary small mt-2">Classic template</div>
+            </div>
+            <div class="border-top d-flex justify-content-between px-3 py-3">
+                <a class="small fw-semibold text-primary text-decoration-none" href="#">Edit</a><a class="small fw-semibold text-dark text-decoration-none" href="#">Download</a><a class="small fw-semibold text-danger text-decoration-none" href="#">Delete</a>
+            </div>
+        </article>
+    </div>
+}
